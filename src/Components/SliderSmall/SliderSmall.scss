@@ -1,0 +1,36 @@
+
+.slick__carousel{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+	height: 100%;
+    max-width: 1449px;
+	max-height: 243px;
+    background: #1B0301
+    
+}
+.slick__carousel-card{
+    max-width: 102px;
+	max-height: 180px;
+    width: 100%;
+	height: 100%;
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
+.slick__carousel-card img{
+    max-width: 102px;
+	max-height: 154px;
+    width: 100%;
+	height: 100%;
+    
+}
+.slick__carousel-card p{
+    font-family: 'Hubballi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 11px;
+    color: #FFFFFF;
+    padding-top: 7px;
+}
